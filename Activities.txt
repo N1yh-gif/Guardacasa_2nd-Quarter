@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta name= "viewpoint" content= "width=device-width,initial scale=1.0">
+	<title> My E-Portfolio</title>
+	<link rel="stylesheet" type="text/css" href="style.css">
+	
+
+<style>
+div.scroll-container {
+  background-color: #DFAEA1;
+  overflow: auto;
+  white-space: nowrap;
+  padding: 10px;
+}
+
+div.scroll-container img {
+  padding: 10px;
+}
+</style>
+</head>
+
+<head>
+	<meta charset="utf-8">
+	<meta name= "viewpoint" content= "width=device-width,initial scale=1.0">
+	<title> My E-Portfolio</title>
+	<link rel="stylesheet" type="text/css" href="style.css">
+</head>
+
+
+
+<body background="background4.jpeg" class="responsive">
+
+	<header>
+		<nav>
+
+			<ul class="topnav">
+
+				<li> <a  href="index.html"> Home </a> </li>
+				<li> <a href="Topics.html"> Topics </a> </li>
+				<li> <a class="active" href="Activities.html"> Activities </a> </li>
+				<li> <a href="Reflection.html"> Reflection </a> </li>
+
+				
+				
+			</ul>
+
+</nav> </header> </div> </body>
+
+<h2 style="color: #895159;"> Worksheets </h2>
+<div class="scroll-container">
+  <img src="worksheet.jpg" alt="Lesson 1" width="580" height="420">
+  <img src="worksheet1.jpg" alt="Lesson 2" width="580" height="420">
+</div>
+
+<h2 style="color: #895159;"> Hands On </h2>
+<div class="scroll-container">
+  <img src="handson.jpg" alt="Lesson 1" width="580" height="420">
+  <img src="handson1.jpg" alt="Lesson 2" width="580" height="420">
+</div>
+
+
+<section class="Other-Portfolios">
+
+<h2> Others! </h2>
+	<div class="extras">
+	<div class="link-box"> <a href="Events.html"> Events! </a> </div>
+<div class="link-box"> <a href="Time.html"> Borrowed Time </a> </div>
+
+
+
+
+
+</main>
+</div>
+</section>
+</body>
+</html>

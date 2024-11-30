@@ -1,0 +1,92 @@
+
+body {
+  font-family: Arial , sans-serif;
+  margin: 0;
+  padding: 0;
+  background-color: #DFAEA1;
+  color: #895159;
+}
+
+
+
+header {
+  background-color: #B3B792;
+  color: #809671;
+  padding: 10px 20px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+
+
+ul.topnav {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #B3B792;
+}
+
+ul.topnav li {float: left;}
+
+ul.topnav li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+ul.topnav li a:hover:not(.active) {background-color: #868B6B;}
+
+ul.topnav li a.active {background-color: #9CA089;}
+
+.extras {
+  display: flex;
+  gap: 10px;
+  margin-top: 20px;
+}
+
+.extras .link-box {
+  background-color: #858FB4;
+  color: #374375;
+  padding: 15px;
+  border-radius: 10px;
+  margin-bottom: 10px;
+}
+
+.extras .link-box {
+  background-color: #858FB4;
+  color: #374375 ;
+  padding: 15px;
+  border-radius: 10px;
+  text-align: center;
+  flex: 1;
+  font-weight: bold;
+} 
+.Other-Portfolios .ul {
+list-style: none;
+padding: 0}
+
+
+.Other-Portfolios h2 {
+color: #374375;
+background-color: #BABDE2;
+padding: 0}
+
+.Other-Portfolios .ul .li{
+  margin-bottom: 3px;
+}
+
+
+.Other-Portfolios ul li a {
+  text-decoration: none;
+  color: #374375;
+  font-weight: bold;
+  background-color: #858FB4;
+  padding: 10px;
+  display: inline-block;
+  border-radius: 5px;
+}
+
